@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://vimalan1995.github.io/csb-x5d6j/static/js/main.263db125.chunk.js",
+    "main.js.map": "https://vimalan1995.github.io/csb-x5d6j/static/js/main.263db125.chunk.js.map",
+    "runtime-main.js": "https://vimalan1995.github.io/csb-x5d6j/static/js/runtime-main.ccc7ecaa.js",
+    "runtime-main.js.map": "https://vimalan1995.github.io/csb-x5d6j/static/js/runtime-main.ccc7ecaa.js.map",
+    "static/js/2.fc726699.chunk.js": "https://vimalan1995.github.io/csb-x5d6j/static/js/2.fc726699.chunk.js",
+    "static/js/2.fc726699.chunk.js.map": "https://vimalan1995.github.io/csb-x5d6j/static/js/2.fc726699.chunk.js.map",
+    "index.html": "https://vimalan1995.github.io/csb-x5d6j/index.html",
+    "precache-manifest.39b987dddef4851fcbc29f01f2ae3d68.js": "https://vimalan1995.github.io/csb-x5d6j/precache-manifest.39b987dddef4851fcbc29f01f2ae3d68.js",
+    "service-worker.js": "https://vimalan1995.github.io/csb-x5d6j/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccc7ecaa.js",
+    "static/js/2.fc726699.chunk.js",
+    "static/js/main.263db125.chunk.js"
+  ]
+}
